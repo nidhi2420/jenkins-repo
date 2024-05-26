@@ -6,6 +6,6 @@ public class Main{
         System.out.println("Nidhi Sahani");
  
 	System.out.println(new Date());
-        System.out.println("Today is a new day,Im enjoying a lot.");
+        System.out.println("Today is a new day.");
     }
 }
